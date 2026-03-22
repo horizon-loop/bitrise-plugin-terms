@@ -6,7 +6,7 @@ Plugin ID: `com.horizonloop.idea.plugin.bitrise`
 **Effective Date:** March 22, 2026
 **Last Updated:** March 22, 2026
 
-[Home](index.html) | [Terms & Conditions](TERMS.html) | [License](LICENSE.html) | [Copyright](COPYRIGHT.html)
+[Home](index.html) | [Terms & Conditions](terms.html) | [License](license.html) | [Copyright](copyright.html)
 
 ---
 
