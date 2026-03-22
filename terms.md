@@ -6,7 +6,7 @@ Plugin ID: `com.horizonloop.idea.plugin.bitrise`
 **Effective Date:** March 22, 2026
 **Last Updated:** March 22, 2026
 
-[Home](index.html) | [Privacy Policy](PRIVACY_POLICY.html) | [License](LICENSE.html) | [Copyright](COPYRIGHT.html)
+[Home](index.html) | [Privacy Policy](privacy-policy.html) | [License](license.html) | [Copyright](copyright.html)
 
 ---
 
@@ -50,7 +50,7 @@ You are responsible for:
 
 ## 5. Data Collection & Privacy
 
-The Plugin collects data only with your explicit consent. For full details, see our [Privacy Policy](PRIVACY_POLICY.html).
+The Plugin collects data only with your explicit consent. For full details, see our [Privacy Policy](privacy-policy.html).
 
 In summary:
 - **Essential data** (API token, settings) is stored locally on your machine and is never sent to us.

@@ -1,6 +1,5 @@
 # Copyright
-
-[Home](index.html) | [Terms & Conditions](TERMS.html) | [Privacy Policy](PRIVACY_POLICY.html) | [License](LICENSE.html)
+[Home](index.html) | [Terms & Conditions](terms.html) | [Privacy Policy](privacy-policy.html) | [License](license.html)
 
 ---
 

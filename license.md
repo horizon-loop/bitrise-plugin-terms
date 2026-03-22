@@ -2,7 +2,7 @@
 
 **Copyright © 2026 HorizonLoop. All rights reserved.**
 
-[Home](index.html) | [Terms & Conditions](TERMS.html) | [Privacy Policy](PRIVACY_POLICY.html) | [Copyright](COPYRIGHT.html)
+[Home](index.html) | [Terms & Conditions](terms.html) | [Privacy Policy](privacy-policy.html) | [Copyright](copyright.html)
 
 ---
 
