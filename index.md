@@ -4,6 +4,8 @@ This site hosts the legal pages for the Bitrise CI/CD plugin for JetBrains IDEs.
 
 - [Privacy Policy](PRIVACY_POLICY.html)
 - [Terms & Conditions](TERMS.html)
+- [License](LICENSE.html)
+- [Copyright](COPYRIGHT.html)
 
 ---
 
