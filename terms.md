@@ -1,3 +1,8 @@
+---
+layout: default
+title: Terms & Conditions
+---
+
 # Terms & Conditions
 
 **Bitrise CI/CD Plugin for JetBrains IDEs**

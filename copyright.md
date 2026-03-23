@@ -1,3 +1,8 @@
+---
+layout: default
+title: Copyright
+---
+
 # Copyright
 [Home](index.html) | [Terms & Conditions](terms.html) | [Privacy Policy](privacy-policy.html) | [License](license.html)
 

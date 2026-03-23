@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy
+---
+
 # Privacy Policy
 
 **Bitrise CI/CD Plugin for JetBrains IDEs**

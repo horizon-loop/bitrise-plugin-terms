@@ -1,3 +1,8 @@
+---
+layout: default
+title: License
+---
+
 # Proprietary License
 
 **Copyright © 2026 HorizonLoop. All rights reserved.**

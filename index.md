@@ -1,3 +1,8 @@
+---
+layout: default
+title: Bitrise CI/CD Plugin – Legal
+---
+
 # Bitrise CI/CD Plugin Legal Documents
 
 This site hosts the legal pages for the Bitrise CI/CD plugin for JetBrains IDEs.
